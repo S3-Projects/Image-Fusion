@@ -1,2 +1,2 @@
-# imusion
-Image fusion project in Python
+# Image-Fusion
+Image Fusion Project in Python
